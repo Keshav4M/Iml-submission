@@ -1,0 +1,10 @@
+# Establish a conda environment
+Conda create -n p3.8 is first.
+Activate conda p3.8
+3. install conda python=3.8
+4. install numpy and matplotlib with conda
+5. install opencv-python scipy with conda 
+
+TIF "https://people.math.sc.edu/Burkardt/data/tif/tif.html" is the link.
+Utilise this link to download the saturn.tif and conduct MLE.
+MLE will be run on saturn.tif.

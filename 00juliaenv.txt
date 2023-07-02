@@ -1,0 +1,11 @@
+creating the julia environment
+ 1. conda create -n j1.8 for craeting julia 
+ 2. conda activate j1.8 for activating
+ 3. conda install julia=1.8 for installing Julia version 1.8
+
+by using Plots pkg for this code 
+to add it and run julia in term
+- using Pkg
+- Pkg.add("Plots")
+
+We will save all the plots in the plots folder
